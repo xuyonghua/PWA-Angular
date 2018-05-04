@@ -20,16 +20,25 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-128x128.png",
+        "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-152x152.png",
+        "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-256x256.png",
+        "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-512x512.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "https://xuyonghua.github.io/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
     "https://xuyonghua.github.io/PWA-Angular/main.622f1ead7c8a4a5f0040.bundle.js": "3a72a847aae0d6ab664eb7ec4c99cf8b9fcc7296",
+    "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "https://xuyonghua.github.io/PWA-Angular/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
     "https://xuyonghua.github.io/PWA-Angular/styles.0744b9f6769c326ccd7f.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://xuyonghua.github.io/PWA-Angular/assets/imgs/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
     "https://xuyonghua.github.io/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://xuyonghua.github.io/PWA-Angular/index.html": "532a18c5915aee2050a16e421974cadf038e7103"
   }
